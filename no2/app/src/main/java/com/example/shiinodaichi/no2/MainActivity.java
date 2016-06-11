@@ -3,15 +3,15 @@
 package com.example.shiinodaichi.no2;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+//import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.android.volley.Response;
-import com.android.volley.VolleyError;
-import com.android.volley.toolbox.JsonObjectRequest;
+//import com.android.volley.Response;
+//import com.android.volley.VolleyError;
+//import com.android.volley.toolbox.JsonObjectRequest;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 ActionBarActivity
-public class MainActivity extends  {
+public class MainActivity extends {
 
     //アダプタークラスです。
     private MessageRecordsAdapter mAdapter;
